@@ -8,7 +8,45 @@
       "created": "2021-11-07"
     }
   ],
-  "tasks": [],
+  "tasks": [
+    {
+      "boardId": 43980845040,
+      "description": "",
+      "completed": false,
+      "listId": 13751644539,
+      "title": "task 1",
+      "id": 53368114512,
+      "created": "2021-11-07",
+      "deadline": "2021-11-10"
+    },
+    {
+      "boardId": 43980845040,
+      "description": "",
+      "completed": false,
+      "listId": 13751644539,
+      "title": "task 3",
+      "id": 6483965114,
+      "created": "2021-11-07",
+      "deadline": "2021-11-10"
+    },
+    {
+      "boardId": 43980845040,
+      "description": "",
+      "completed": false,
+      "listId": 13751644539,
+      "title": "task 2",
+      "id": 5449590023,
+      "created": "2021-11-07",
+      "deadline": "2021-11-10"
+    }
+  ],
   "users": [],
-  "lists": []
+  "lists": [
+    {
+      "boardId": 43980845040,
+      "title": "list 1",
+      "id": 13751644539,
+      "created": "2021-11-07"
+    }
+  ]
 }

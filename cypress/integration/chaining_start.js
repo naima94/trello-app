@@ -10,6 +10,7 @@ it('Chaining commands', () => {
 
   cy
     .get('[data-cy="task"]')
-    .should('be.visible')
+    .eq(1)
+    .should('have.text', 'task 1')
 
 });
