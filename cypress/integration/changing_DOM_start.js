@@ -10,6 +10,10 @@ beforeEach(() => {
 it('Changing the DOM', () => {
 
   cy
-    .get('[data-cy="star"]')
+    .get('[data-cy="star"]').first()
+    .invoke('show')
+    .click({
+      force: true
+    })
 
 })
